@@ -17,7 +17,7 @@ class GetRequest {
 class UI {
 
 
-    constructor(name, coordinatelot) {
+    constructor() {
         this.cardWeather = document.getElementById("card")
     }
 
